@@ -1,0 +1,29 @@
+body {
+    padding: 5em;
+}
+
+header, main {
+    padding-bottom: 5em;
+    text-align: center;
+}
+
+footer {
+    font-size: 45px;
+}
+
+.page-title {
+    font-size: 72px;
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(6, 254, 76);
+}
+
+.play-btn {
+    font-size: 50px;
+    padding:10px;
+    width: 150px;
+    color: rgb(131, 0, 254);
+    background-color: aquamarine;
+    border-radius: 30px;
+    box-shadow:10px 10px;
+}
+
